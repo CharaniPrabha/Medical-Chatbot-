@@ -1,4 +1,3 @@
-# Medical-Chatbot-
 # Disease Prediction and Medical Recommendation System 🩺
 
 This repository contains the implementation of a Disease Prediction and Medical Recommendation System.
@@ -45,7 +44,7 @@ To run the Disease Prediction and Medical Recommendation System:
 
 3. **Start the Flask application:**
    ```bash
-   python main.py
+   python main.py 
 
 4. **Access the web interface in your browser at:**
    ```bash
